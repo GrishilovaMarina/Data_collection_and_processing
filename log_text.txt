@@ -1,0 +1,74 @@
+2022-10-10 23:19:10 [scrapy.crawler] INFO: Overridden settings:
+{'AUTOTHROTTLE_DEBUG': True,
+ 'AUTOTHROTTLE_ENABLED': True,
+ 'AUTOTHROTTLE_START_DELAY': 3,
+ 'BOT_NAME': 'gb_parser',
+ 'CONCURRENT_REQUESTS': 8,
+ 'DOWNLOAD_DELAY': 1.5,
+ 'LOG_LEVEL': 'INFO',
+ 'NEWSPIDER_MODULE': 'gb_parser.spiders',
+ 'SPIDER_MODULES': ['gb_parser.spiders'],
+ 'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
+               '(KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 '
+               'Edg/106.0.1370.37'}
+2022-10-10 23:19:10 [scrapy.extensions.telnet] INFO: Telnet Password: e7225ca24950a827
+2022-10-10 23:19:10 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.logstats.LogStats',
+ 'scrapy.extensions.throttle.AutoThrottle']
+2022-10-10 23:19:10 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2022-10-10 23:19:10 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2022-10-10 23:19:10 [scrapy.middleware] INFO: Enabled item pipelines:
+['gb_parser.pipelines.GbPipeline']
+2022-10-10 23:19:10 [scrapy.core.engine] INFO: Spider opened
+2022-10-10 23:19:10 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2022-10-10 23:19:10 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6025
+2022-10-10 23:19:11 [scrapy.extensions.throttle] INFO: slot: gb.ru | conc: 1 | delay: 1609 ms (-1390) | latency:  219 ms | size: 88239 bytes
+2022-10-10 23:19:13 [scrapy.extensions.throttle] INFO: slot: gb.ru | conc: 1 | delay: 1609 ms (+0) | latency:   60 ms | size:    85 bytes
+2022-10-10 23:19:16 [scrapy.extensions.throttle] INFO: slot: gb.ru | conc: 1 | delay: 1500 ms (-109) | latency:   82 ms | size: 24693 bytes
+АВТОРИЗАЦИЯ ПРОШЛА УСПЕШНО!!!
+2022-10-10 23:19:17 [scrapy.extensions.throttle] INFO: slot: gb.ru | conc: 1 | delay: 1500 ms (+0) | latency:   70 ms | size: 23974 bytes
+ВСЕГО СЧИТАНО - 91 ПОГРАММ ОБУЧЕНИЯ
+ФАЙЛ ЗАПИСАН
+2022-10-10 23:19:18 [scrapy.core.engine] INFO: Closing spider (finished)
+2022-10-10 23:19:18 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 1981,
+ 'downloader/request_count': 4,
+ 'downloader/request_method_count/GET': 3,
+ 'downloader/request_method_count/POST': 1,
+ 'downloader/response_bytes': 139205,
+ 'downloader/response_count': 4,
+ 'downloader/response_status_count/200': 3,
+ 'downloader/response_status_count/302': 1,
+ 'elapsed_time_seconds': 7.226157,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2022, 10, 10, 20, 19, 18, 70420),
+ 'httpcompression/response_bytes': 721296,
+ 'httpcompression/response_count': 2,
+ 'item_scraped_count': 91,
+ 'log_count/INFO': 14,
+ 'request_depth_max': 2,
+ 'response_received_count': 3,
+ 'scheduler/dequeued': 4,
+ 'scheduler/dequeued/memory': 4,
+ 'scheduler/enqueued': 4,
+ 'scheduler/enqueued/memory': 4,
+ 'start_time': datetime.datetime(2022, 10, 10, 20, 19, 10, 844263)}
+2022-10-10 23:19:18 [scrapy.core.engine] INFO: Spider closed (finished)

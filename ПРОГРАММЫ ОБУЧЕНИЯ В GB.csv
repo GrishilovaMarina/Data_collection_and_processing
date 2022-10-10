@@ -1,0 +1,92 @@
+name,termin,url
+Разработчик,от 12 месяцев,https://gb.ru/geek_university/developer
+ИТ-специалист,6 месяцев,https://gb.ru/geek_university/it-specialist
+ИТ-инженер,12 месяцев,https://gb.ru/geek_university/developer/engineer
+ИТ-инженер Мастер,24 месяца,https://gb.ru/geek_university/developer/engineer/it-master
+ИТ-инженер PRO,36 месяцев,https://gb.ru/geek_university/developer/engineer/it-pro
+Программист-специалист,6 месяцев,https://gb.ru/geek_university/it-specialist/programmer
+Инженер-программист,12 месяцев,https://gb.ru/geek_university/developer/programmer
+Инженер-программист Мастер,24 месяцев,https://gb.ru/geek_university/developer/programmer/master
+Инженер-программист PRO,36 месяцев,https://gb.ru/geek_university/developer/programmer/pro
+ИТ-Инженер. Передовые технологии,12 месяцев,https://gb.ru/geek_university/engineer/main
+ИТ-Инженер. Передовые технологии: Web 3.0,12 месяцев,https://gb.ru/geek_university/engineer/web3
+ИТ-Инженер. Передовые технологии: Blockchain,12 месяцев,https://gb.ru/geek_university/engineer/blockchain
+ИТ-Инженер. Передовые технологии: Data Science,12 месяцев,https://gb.ru/geek_university/engineer/datascience
+ИТ-Инженер. Передовые технологии: Искусственный интеллект,12 месяцев,https://gb.ru/geek_university/engineer/ai
+ИТ-Инженер. Передовые технологии: Кибернетика умных устройств,12 месяцев,https://gb.ru/geek_university/engineer/iot
+ИТ-Инженер. Передовые технологии: Метавселенные,12 месяцев,https://gb.ru/geek_university/engineer/metaverse
+Инженер-программист C# Мастер,24 месяца,https://gb.ru/geek_university/developer/programmer/csharp/master
+Инженер-программист C#,12 месяцев,https://gb.ru/geek_university/developer/programmer/csharp
+Инженер-программист C++ Мастер,24 месяца,https://gb.ru/geek_university/developer/programmer/cpp/master
+Инженер-программист C++,12 месяцев,https://gb.ru/geek_university/developer/programmer/cpp
+Инженер-программист Python Мастер,24 месяца,https://gb.ru/geek_university/developer/programmer/python/master
+Инженер-программист Python,12 месяцев,https://gb.ru/geek_university/developer/programmer/python
+Инженер-программист Java Мастер,24 месяца,https://gb.ru/geek_university/developer/programmer/java/master
+Инженер-программист Java,12 месяцев,https://gb.ru/geek_university/developer/programmer/java
+FullStack-разработчик,12 месяцев,https://gb.ru/geek_university/developer/programmer/fullstack
+FullStack-разработчик Мастер,24 месяца,https://gb.ru/geek_university/developer/programmer/fullstack/master
+Инженер-программист JavaScript,12 месяцев,https://gb.ru/geek_university/developer/programmer/javascript
+Инженер-программист JavaScript Мастер,24 месяца,https://gb.ru/geek_university/developer/programmer/javascript/master
+Инженер-программист Go,12 месяцев,https://gb.ru/geek_university/developer/go
+Инженер-программист Go Мастер,24 месяца,https://gb.ru/geek_university/developer/programmer/go/master
+Frontend-разработчик Мастер,24 месяца,https://gb.ru/geek_university/developer/programmer/frontend/master
+Frontend-разработчик,12 месяцев,https://gb.ru/geek_university/developer/programmer/frontend
+Веб-разработчик,12 месяцев,https://gb.ru/geek_university/developer/programmer/web
+Веб-разработчик Мастер,24 месяца,https://gb.ru/geek_university/developer/programmer/web/master
+Специалист по тестированию,6 месяцев,https://gb.ru/geek_university/it-specialist/qa
+Специалист по аналитике,6 месяцев,https://gb.ru/geek_university/it-specialist/analyst
+Инженер по тестированию,12 месяцев,https://gb.ru/geek_university/developer/qa-engineer
+Инженер-аналитик,12 месяцев,https://gb.ru/geek_university/developer/analyst
+Инженер-аналитик Мастер,24 месяца,https://gb.ru/geek_university/developer/analyst/master
+Инженер по тестированию Мастер,24 месяца,https://gb.ru/geek_university/developer/qa-engineer/master
+Инженер по тестированию PRO,36 месяцев,https://gb.ru/geek_university/developer/qa-engineer/pro
+Инженер-аналитик PRO,36 месяцев,https://gb.ru/geek_university/developer/analyst/pro
+Аналитик продаж,12 месяцев,https://gb.ru/geek_university/developer/analyst/sales
+Продакт-менеджмент,12 месяцев,https://gb.ru/geek_university/developer/product-manager
+Бизнес-аналитик,12 месяцев,https://gb.ru/geek_university/developer/analyst/business
+Аналитик больших данных,12 месяцев,https://gb.ru/geek_university/developer/analyst/big-data
+BI (Business Intelligence)-аналитик,12 месяцев,https://gb.ru/geek_university/developer/analyst/bi
+Финансовый аналитик,12 месяцев,https://gb.ru/geek_university/developer/analyst/finance
+Бизнес-аналитик в ИТ,12 месяцев,https://gb.ru/geek_university/developer/analyst/it
+Игровой аналитик,12 месяцев,https://gb.ru/geek_university/developer/analyst/game
+Аналитик коммерческих данных,12 месяцев,https://gb.ru/geek_university/developer/analyst/commercial-data
+Веб-аналитик,12 месяцев,https://gb.ru/geek_university/developer/analyst/web
+HR (Human Resources)-аналитик,12 месяцев,https://gb.ru/geek_university/developer/analyst/hr
+Маркетинговый аналитик,12 месяцев,https://gb.ru/geek_university/developer/analyst/marketing
+Проджект-менеджмент,12 месяцев,https://gb.ru/geek_university/developer/project-manager
+Инженер по ручному тестированию,12 месяцев,https://gb.ru/geek_university/developer/qa-engineer/manual
+Системный аналитик,12 месяцев,https://gb.ru/geek_university/developer/programmer/analyst
+Продуктовый аналитик,12 месяцев,https://gb.ru/geek_university/developer/analyst/product
+Инженер по автоматизированному тестированию,12 месяцев,https://gb.ru/geek_university/developer/qa-engineer/auto
+Искусственный интеллект,24 месяца,https://gb.ru/geek_university/data-science
+Инженер Искусственного интеллекта,12 месяцев,https://gb.ru/geek_university/developer/ai-engineer
+Data Science аналитик,12 месяцев,https://gb.ru/geek_university/developer/analyst/data-science
+Интернет-маркетинг,16 месяцев,https://gb.ru/geek_university/internet-marketing
+Системная и бизнес-аналитика,12 месяцев,https://gb.ru/geek_university/system-business-analysis
+Дизайн жилых интерьеров,12 месяцев,https://gb.ru/geek_university/interior-design
+Разработчик приложений на Android,12 месяцев,https://gb.ru/geek_university/developer/android
+DevOps,18 месяцев,https://gb.ru/geek_university/devops
+SMM-менеджмент,12 месяцев,https://gb.ru/geek_university/smm-management
+Информационная безопасность,12 месяцев,https://gb.ru/geek_university/security
+Дизайн жилых и общественных интерьеров,24 месяца,https://gb.ru/geek_university/interior-design-residential-and-public
+Дизайн интерфейсов (UX/UI),24 месяца,https://gb.ru/geek_university/interface-designer
+Аналитика Big Data,12 месяцев,https://gb.ru/geek_university/big-data-analytics
+Разработчик приложений на iOS,12 месяцев,https://gb.ru/geek_university/developer/programmer/ios
+Разработка игр на Unity,18 месяцев,https://gb.ru/geek_university/unity
+Графический дизайн,12 месяцев,https://gb.ru/geek_university/graphic-design
+Data Science в медицине,24 месяца,https://gb.ru/geek_university/data-science-medicine
+Веб-дизайн,12 месяцев,https://gb.ru/geek_university/web-design
+3D-моделирование,12 месяцев,https://gb.ru/geek_university/modeling-3d
+Редактура и копирайтинг,12 месяцев,https://gb.ru/geek_university/copywriter
+Основы работы с маркетплейсами и e-commerce,9 месяцев,https://gb.ru/geek_university/e-commerce
+Инженер умных устройств,20 месяцев,https://gb.ru/geek_university/internet-of-things
+Разработка игр на Unreal Engine,15 месяцев,https://gb.ru/geek_university/unrealengine4
+Сетевой инженер,11 месяцев,https://gb.ru/geek_university/network-engineer
+Таргетированная реклама,12 месяцев,https://gb.ru/geek_university/targeting
+Разработка VR/AR,12 месяцев,https://gb.ru/geek_university/vr-ar
+1С-разработка,8 месяцев,https://gb.ru/geek_university/1c-developer
+Системный администратор,7 месяцев,https://gb.ru/professions/sys_admin
+Программист Python,6 месяцев,https://gb.ru/professions/python_developer
+Digital-маркетолог,6 месяцев,https://gb.ru/professions/digital-marketing
+Программист Java,7 месяцев,https://gb.ru/professions/java_developer
+Разработчик игр на Unity,11 месяцев,https://gb.ru/professions/game_developer
